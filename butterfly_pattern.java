@@ -6,7 +6,6 @@
             //first half
             for(int j = 1;j<= i;j++){
                 System.out.print("*");
-
             }
              //spaces
              int spaces = 2 * (n - i);
